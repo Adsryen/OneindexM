@@ -25,7 +25,7 @@
     <span class="ml-2"><?php e(config('site_name'));?> </span><span style="font-size:75%"><?php e(config('site_name_S'));?></span>
   </a>
   <!-- 右侧按钮修改 -->
-  <a class="nav-link mr-lg-5 pr-lg-5" href="https://www.mintimate.cn/about">技术支持</a>
+  <a class="nav-link mr-lg-5 pr-lg-5" href="https://github.com/anderson-ryen/OneindexM">技术支持</a>
 </nav>
 	
 	<div class="mdui-container">
