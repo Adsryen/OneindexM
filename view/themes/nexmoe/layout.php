@@ -48,7 +48,7 @@
 		fixed="true">
 	</meting-js>
 	<!-- id改成自己的歌单号 -->
-	<script src="https://cdn.jsdelivr.net/gh/Mintimate/OneIndex-theme-nexmoes@latest/nexmoes/theme/personjs.js"></script>
+	<script src="https://cdn.jsdelivr.net/gh/anderson-ryen/OneIndex-theme-nexmoes@latest/nexmoes/theme/personjs.js"></script>
   	<script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </body>
 </html>
