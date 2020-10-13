@@ -4,8 +4,8 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
 	<title><?php e($title.' - '.config('site_name'));?></title>
-	<link rel="icon" type="image/png" href="https://mintimate.cn/img/favicon.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="https://mintimate.cn/img/favicon.png">
+	<link rel="icon" type="image/png" href="https://cdn.jsdelivr.net/gh/anderson-ryen/pictruebed/ffae.jpg">
+	<link rel="apple-touch-icon" sizes="76x76" href="https://cdn.jsdelivr.net/gh/anderson-ryen/pictruebed/ffae.jpg">
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
 			<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 				<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
@@ -21,7 +21,7 @@
 
 <nav class="navbar navbar-light bg-light">
   <a class="navbar-brand ml-lg-5 pl-lg-5" href="/">
-    <img src="https://cdn.jsdelivr.net/gh/Mintimate/OneIndex-theme-nexmoes@latest/nexmoes/picture/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
+    <img src="https://cdn.jsdelivr.net/gh/anderson-ryen/pictruebed/ffae.jpg" width="30" height="30" class="d-inline-block align-top" alt="">
     <span class="ml-2"><?php e(config('site_name'));?> </span><span style="font-size:75%"><?php e(config('site_name_S'));?></span>
   </a>
   <!-- 右侧按钮修改 -->
